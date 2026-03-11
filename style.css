@@ -3,25 +3,25 @@ body {
   background: #fff;
   color: #000;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.45;
 }
 
 main {
-  max-width: 680px;
-  margin: 72px auto;
+  max-width: 620px;
+  margin: 56px auto;
   padding: 0 24px;
 }
 
 h1 {
-  font-size: 1.6rem;
+  font-size: 1.35rem;
   font-weight: normal;
-  margin: 0 0 18px;
+  margin: 0 0 14px;
 }
 
 p,
 ul {
-  margin: 0 0 14px;
+  margin: 0 0 10px;
 }
 
 ul {
